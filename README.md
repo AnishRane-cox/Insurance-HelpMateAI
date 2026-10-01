@@ -1,9 +1,9 @@
 # 🛡️ HelpMate AI — RAG Chatbot for Insurance Policy Documents
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-ada--002%20%7C%20GPT--3.5-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-ada--002%20%7C%20GPT--3.5-412991?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20store-FF6F61?style=flat-square)
-![Cross-Encoder](https://img.shields.io/badge/Re--ranking-ms--marco%20MiniLM-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Cross-Encoder](https://img.shields.io/badge/Re--ranking-ms--marco%20MiniLM-FFD21E?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 > A **Retrieval-Augmented Generation (RAG)** system that answers questions about a **64-page life-insurance policy** — with a semantic cache, cross-encoder re-ranking and a prompt that **refuses to answer when the policy doesn't contain the information**.
